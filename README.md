@@ -1,6 +1,6 @@
 # AIProject
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://thumbs.dreamstime.com/b/ai-artificial-intelligence-logo-machine-learning-concept-sphere-grid-wave-binary-code-big-data-innovation-technology-148839181.jpg" width="400"></a></p>
+<p align="center"><a target="_blank"><img src="https://thumbs.dreamstime.com/b/ai-artificial-intelligence-logo-machine-learning-concept-sphere-grid-wave-binary-code-big-data-innovation-technology-148839181.jpg" width="400"></a></p>
 
 Project Kelas AI 
 Image Classification
